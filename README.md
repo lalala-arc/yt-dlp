@@ -20,6 +20,12 @@ yt-dlp is a feature-rich command-line audio/video downloader with support for [t
 
 <!-- MANPAGE: MOVE "USAGE AND OPTIONS" SECTION HERE -->
 
+#DOWNLOAD
+
+https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
+
+
+
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 * [INSTALLATION](#installation)
     * [Detailed instructions](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
